@@ -1,6 +1,6 @@
 # Readiness To Return To Work Client Project
 
-Collaborated in a team of 8 to develop a digital mental health intervention application for the **Institude of Psychiatry, Pscyhology and Neuroscience**
+Collaborated in a team of 8 to develop a digital mental health intervention application for the **Institute of Psychiatry, Pscyhology and Neuroscience**
 The intervention aims to help individuals assess their readiness to return to work.
 
 <ins> Technology Stack: </ins>
@@ -26,6 +26,6 @@ Medical professionals are able to create and upload interactive modules for pati
 ## Realtime Support Page
 For inquiries, patients are able to directly contact admins through the support page. Core features: **real-time conversations** (via websockets) and **profanity filtering** (censors text appropriately). Additionally, browser service workers are utilised to synchronise all tabs without the expense of creating multiple websocket connections.
 
-Here is a video of me demonstrating the features described above by simulating two different browser environments.
+Here is a **video** of me demonstrating the features described above by simulating two different browser environments.
 
 [![Watch the video](http://img.youtube.com/vi/qwX1zvDtT4o/0.jpg)](https://youtu.be/qwX1zvDtT4o)
