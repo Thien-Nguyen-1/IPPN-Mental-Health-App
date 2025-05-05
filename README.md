@@ -3,9 +3,10 @@
 Collaborated in a team of 8 to develop a digital mental health intervention application for the **Institude of Psychiatry, Pscyhology and Neuroscience**
 The intervention aims to help individuals assess their readiness to return to work.
 
-Technology Stack:
+<ins> Technology Stack: </ins>
 - ReactJS
 - Django
+- Firebase
 
 **Due to policies imposed by King's College London and the client, source code will not be shown. However, pictures and videos have been embedded below with descriptions.**
 
@@ -18,4 +19,6 @@ Patients are able to log in or create an account at the root page. JWT authentic
 
 
 ## Module Content Management System (CMS)
-Medical professionals 
+Medical professionals are able to create and upload interactive modules for patients on the web application. Patient's responses to questions are saved persistently so that they may review them.
+
+<img width="844" alt="Screenshot 2025-05-05 at 18 39 29" src="https://github.com/user-attachments/assets/d7b9ac4b-7340-49ac-8c8f-1c4bfe7ac159" />
